@@ -51,7 +51,7 @@ console.log(keyPressed);
 	if(keyPressed == '80')
 	{
 		block_x = 600;
-		new_image('prback.jpg');
+		new_image('pr.png');
 		console.log("p");
 	}
 	if(keyPressed == '66')
